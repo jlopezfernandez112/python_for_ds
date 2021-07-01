@@ -1,0 +1,5 @@
+*/.ipynb_checkpoints/**
+*/__pycache__/**
+
+# API keys
+6_APIs/config.py
